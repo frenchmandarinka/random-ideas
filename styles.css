@@ -33,7 +33,7 @@ body {
   display: flex;
   align-items: baseline;
   justify-content: space-between;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 
 .logo {
@@ -65,7 +65,7 @@ body {
   width: 500px;
   display: block;
   overflow: hidden;
-  margin: 40px auto 50px;
+  margin: 10px auto 50px;
 }
 
 .advice {
